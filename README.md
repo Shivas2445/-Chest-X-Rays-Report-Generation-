@@ -1,4 +1,6 @@
 #  Chest X-Rays Report Generation 
+# 🩺 Chest X-Rays Report Generation using GPT-2
+
 ## 📌 Project Description
 This project focuses on generating medical reports from Chest X-ray images using a fine-tuned **GPT-2** model.  
 The system combines **computer vision** and **natural language processing (NLP)** to assist in automated radiology reporting.
@@ -30,7 +32,7 @@ The system combines **computer vision** and **natural language processing (NLP)*
 
 ## 🔗 Project Links
 - 📄 **Kaggle Notebook**: [Chest X-Rays GPT-2 Project](https://www.kaggle.com/code/shivashankar2445/chest-x-rays-gpt-2-140bca)  
-- 🎥 **Demo Video**: [Watch the Demo on Google Drive](https://drive.google.com/file/d/13pSPvWUEW63T5rtBhfEO1cMZCFNQ4IIB/view?usp=sharing)  
+- 🎥 **Demo Video**: [Watch the Demo on Google Drive](https://drive.google.com/file/d/13k-LPWPtkPjeDLlT87uv6MYtJZFxDP5f/view?usp=sharing)  
 
 ---
 
@@ -54,3 +56,16 @@ pip install -r requirements.txt
 
 # 4️⃣ Run the notebook
 jupyter notebook chest-x-rays-gpt-2.ipynb
+
+
+✅ Conclusion
+This project demonstrates how AI can be leveraged to assist in the medical field, specifically in automated radiology report generation.
+
+✅ Conclusion
+This project demonstrates how AI can be leveraged to assist in the medical field, specifically in automated radiology report generation.
+
+## 🤝 Contributors
+- [Swathi M K](https://github.com/SwathiMK2004)
+- [Piyu](https://github.com/piyu-123-106)
+- [Supreet Gouda Hiregoudra](https://github.com/SupreetgoudaHiregoudra)
+
