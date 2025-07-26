@@ -63,9 +63,11 @@ This project demonstrates how AI can be leveraged to assist in the medical field
 
 ✅ Conclusion
 This project demonstrates how AI can be leveraged to assist in the medical field, specifically in automated radiology report generation.
-
-## 🤝 Contributors
-- [Swathi M K](https://github.com/SwathiMK2004)
-- [Piyu](https://github.com/piyu-123-106)
-- [Supreet Gouda Hiregoudra](https://github.com/SupreetgoudaHiregoudra)
+```
+## 🤝 Contributors  
+- 👩‍💻 [Swathi M K](https://github.com/SwathiMK2004)
+   ``` 
+- 👩‍💻 [Piyu](https://github.com/piyu-123-106)
+  ``` 
+- 👨‍💻 [Supreet Gouda Hiregoudra](https://github.com/SupreetgoudaHiregoudra)  
 
